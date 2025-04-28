@@ -1,0 +1,45 @@
+¿Cómo estás?|Estoy muy bien, gracias por preguntar.
+¿Como estas?|Estoy muy bien, gracias por preguntar.
+cual es la capital de antigua y barbuda|saint johns
+cual es la capital de bahamas|nassau
+cual es la capital de barbados|bridgetown
+cual es la capital de belice|belmopan
+cual es la capital de canadá|ottawa
+cual es la capital de costa rica|san jose
+cual es la capital de cuba|la habana
+cual es la capital de dominica|roseau
+cual es la capital de republica dominicana|santo domingo
+cual es la capital de el salvador|san salvador
+cual es la capital de estados unidos|washington dc
+cual es la capital de granada|saint george
+cual es la capital de guatemala|ciudad de guatemala
+cual es la capital de guinea (guinea francesa)|conakri 
+cual es la capital de honduras|tegucigalpa
+cual es la capital de jamaica|kingston
+cual es la capital de mexico|ciudad de mexico
+cual es la capital de nicaragua|managua
+cual es la capital de panama|ciudad de panama
+cual es la capital de san cristobal y nieves|basseterre
+cual es la capital de san lucia|castries
+cual es la capital de san vicente y las granadinas|kingstown
+cual es la capital de santa lucia|castries      # ya incluida
+cual es la capital de trinidad y tobago|puerto de españa
+cual es la capital de argentina|buenos aires
+cual es la capital de belize|belmopan          # ya incluida
+cual es la capital de bolivia|sucre            # sede constitucional
+cual es la capital administrativa de bolivia|la paz
+cual es la capital de brasil|brasilia
+cual es la capital de chile|santiago
+cual es la capital de colombia|bogota
+cual es la capital de ecuador|quito
+cual es la capital de guyana|georgetown
+cual es la capital de paraguay|asuncion
+cual es la capital de peru|lima
+cual es la capital de surinam|paramaribo
+cual es la capital de uruguay|montevideo
+cual es la capital de venezuela|caracas
+cual es el territorio de guatemala|70000 km
+cual es el territorio de el salvador|80000 km
+cual es el territorio de brasil|90000 km
+dato curioso guatemala|203 anios
+dato curioso salvador|205 anios
