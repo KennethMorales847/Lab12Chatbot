@@ -1,45 +1,108 @@
-¿Cómo estás?|Estoy muy bien, gracias por preguntar.
 ¿Como estas?|Estoy muy bien, gracias por preguntar.
-cual es la capital de antigua y barbuda|saint johns
-cual es la capital de bahamas|nassau
-cual es la capital de barbados|bridgetown
-cual es la capital de belice|belmopan
-cual es la capital de canadá|ottawa
-cual es la capital de costa rica|san jose
-cual es la capital de cuba|la habana
-cual es la capital de dominica|roseau
-cual es la capital de republica dominicana|santo domingo
-cual es la capital de el salvador|san salvador
-cual es la capital de estados unidos|washington dc
-cual es la capital de granada|saint george
-cual es la capital de guatemala|ciudad de guatemala
-cual es la capital de guinea (guinea francesa)|conakri 
-cual es la capital de honduras|tegucigalpa
-cual es la capital de jamaica|kingston
-cual es la capital de mexico|ciudad de mexico
-cual es la capital de nicaragua|managua
-cual es la capital de panama|ciudad de panama
-cual es la capital de san cristobal y nieves|basseterre
-cual es la capital de san lucia|castries
-cual es la capital de san vicente y las granadinas|kingstown
-cual es la capital de santa lucia|castries      # ya incluida
-cual es la capital de trinidad y tobago|puerto de españa
-cual es la capital de argentina|buenos aires
-cual es la capital de belize|belmopan          # ya incluida
-cual es la capital de bolivia|sucre            # sede constitucional
-cual es la capital administrativa de bolivia|la paz
-cual es la capital de brasil|brasilia
-cual es la capital de chile|santiago
-cual es la capital de colombia|bogota
-cual es la capital de ecuador|quito
-cual es la capital de guyana|georgetown
-cual es la capital de paraguay|asuncion
-cual es la capital de peru|lima
-cual es la capital de surinam|paramaribo
-cual es la capital de uruguay|montevideo
-cual es la capital de venezuela|caracas
-cual es el territorio de guatemala|70000 km
-cual es el territorio de el salvador|80000 km
-cual es el territorio de brasil|90000 km
-dato curioso guatemala|203 anios
-dato curioso salvador|205 anios
+¿Cual es la capital de Antigua y Barbuda?|saint johns
+¿Cual es la capital de Bahamas?|nassau
+¿Cual es la capital de Barbados?|bridgetown
+¿Cual es la capital de Belice?|belmopan
+¿Cual es la capital de Canada?|ottawa
+¿Cual es la capital de Costa Rica?|san jose
+¿Cual es la capital de Cuba?|la habana
+¿Cual es la capital de Dominica?|roseau
+¿Cual es la capital de Republica Dominicana?|santo domingo
+¿Cual es la capital de El Salvador?|san salvador
+¿Cual es la capital de Estados Unidos?|washington dc
+¿Cual es la capital de Granada?|saint george
+¿Cual es la capital de Guatemala?|ciudad de guatemala
+¿Cual es la capital de Guinea (Guinea Francesa)?|conakri
+¿Cual es la capital de Honduras?|tegucigalpa
+¿Cual es la capital de Jamaica?|kingston
+¿Cual es la capital de Mexico?|ciudad de mexico
+¿Cual es la capital de Nicaragua?|managua
+¿Cual es la capital de Panama?|ciudad de panama
+¿Cual es la capital de San Cristobal y Nieves?|basseterre
+¿Cual es la capital de San Lucia?|castries
+¿Cual es la capital de San Vicente y Las Granadinas?|kingstown
+¿Cual es la capital de Santa Lucia?|castries
+¿Cual es la capital de Trinidad y Tobago?|puerto de españa
+¿Cual es la capital de Argentina?|buenos aires
+¿Cual es la capital de Belice?|belmopan
+¿Cual es la capital de Bolivia?|sucre
+¿Cual es la capital administrativa de Bolivia?|la paz
+¿Cual es la capital de Brasil?|brasilia
+¿Cual es la capital de Chile?|santiago
+¿Cual es la capital de Colombia?|bogota
+¿Cual es la capital de Ecuador?|quito
+¿Cual es la capital de Guyana?|georgetown
+¿Cual es la capital de Paraguay?|asuncion
+¿Cual es la capital de Peru?|lima
+¿Cual es la capital de Surinam?|paramaribo
+¿Cual es la capital de Uruguay?|montevideo
+¿Cual es la capital de Venezuela?|caracas
+¿Cual es el territorio de Antigua y Barbuda?|443 km
+¿Cual es el territorio de Bahamas?|13880 km
+¿Cual es el territorio de Barbados?|431 km
+¿Cual es el territorio de Belice?|22966 km
+¿Cual es el territorio de Canada?|9984670 km
+¿Cual es el territorio de Costa Rica?|51100 km
+¿Cual es el territorio de Cuba?|109884 km
+¿Cual es el territorio de Dominica?|751 km
+¿Cual es el territorio de Republica Dominicana?|48670 km
+¿Cual es el territorio de El Salvador?|21041 km
+¿Cual es el territorio de Estados Unidos?|9833517 km
+¿Cual es el territorio de Granada?|344 km
+¿Cual es el territorio de Guatemala?|108889 km
+¿Cual es el territorio de Honduras?|112492 km
+¿Cual es el territorio de Jamaica?|10991 km
+¿Cual es el territorio de Mexico?|1964375 km
+¿Cual es el territorio de Nicaragua?|130375 km
+¿Cual es el territorio de Panama?|75420 km
+¿Cual es el territorio de San Cristobal y Nieves?|261 km
+¿Cual es el territorio de San Lucia?|617 km
+¿Cual es el territorio de San Vicente y Las Granadinas?|389 km
+¿Cual es el territorio de Trinidad y Tobago?|5128 km
+¿Cual es el territorio de Argentina?|2780400 km
+¿Cual es el territorio de Bolivia?|1098581 km
+¿Cual es el territorio administrativo de Bolivia?|1098581 km
+¿Cual es el territorio de Brasil?|8515767 km
+¿Cual es el territorio de Chile?|756102 km
+¿Cual es el territorio de Colombia?|1141748 km
+¿Cual es el territorio de Ecuador?|283561 km
+¿Cual es el territorio de Guyana?|214969 km
+¿Cual es el territorio de Paraguay?|406752 km
+¿Cual es el territorio de Peru?|1285216 km
+¿Cual es el territorio de Surinam?|163821 km
+¿Cual es el territorio de Uruguay?|176215 km
+¿Cual es el territorio de Venezuela?|916445 km
+¿Cual es un dato curioso de Antigua y Barbuda?|antigua y barbuda tiene mas barcos por habitante que cualquier otro pais del mundo
+¿Cual es un dato curioso de Bahamas?|bahamas cuenta con mas de 700 islas e islotes en su territorio
+¿Cual es un dato curioso de Barbados?|barbados es el unico pais en america cuyo nombre deriva de un arbol
+¿Cual es un dato curioso de Belice?|belice es el unico pais de america central cuyo idioma oficial es el ingles
+¿Cual es un dato curioso de Canada?|canada tiene el litoral mas largo del mundo
+¿Cual es un dato curioso de Costa Rica?|costa rica abolio el ejercito en 1948 y es uno de los pocos paises sin fuerzas armadas
+¿Cual es un dato curioso de Cuba?|cuba es el pais mas poblado de las islas del caribe
+¿Cual es un dato curioso de Dominica?|dominica es conocida como la isla de la naturaleza por su bosque lluvioso virgen
+¿Cual es un dato curioso de Republica Dominicana?|republica dominicana comparte la isla de la espanola con haiti
+¿Cual es un dato curioso de El Salvador?|el salvador es el pais mas pequeno de america central
+¿Cual es un dato curioso de Estados Unidos?|estados unidos es el tercer pais mas grande del mundo por area
+¿Cual es un dato curioso de Granada?|granada es conocida como la isla de las especias por su produccion de nuez moscada
+¿Cual es un dato curioso de Guatemala?|guatemala tiene el lago mas profundo de centroamerica, el lago atitlan
+¿Cual es un dato curioso de Honduras?|honduras alberga la segunda barrera de coral mas grande del mundo
+¿Cual es un dato curioso de Jamaica?|jamaica es el tercer pais con mayor produccion de bauxita del mundo
+¿Cual es un dato curioso de Mexico?|mexico es el mayor productor de plata del mundo
+¿Cual es un dato curioso de Nicaragua?|nicaragua alberga el lago mas grande de america central, el lago de nicaragua
+¿Cual es un dato curioso de Panama?|panama es el unico lugar donde sale el sol por el pacifico y se pone en el atlantico
+¿Cual es un dato curioso de San Cristobal y Nieves?|san cristobal y nieves es el pais soberano mas pequeno de america continental
+¿Cual es un dato curioso de San Lucia?|san lucia tiene una playa de arena rosa en anse chastenet
+¿Cual es un dato curioso de San Vicente y Las Granadinas?|san vicente y las granadinas es uno de los mayores productores de bananas del caribe
+¿Cual es un dato curioso de Trinidad y Tobago?|trinidad y tobago es la cuna del calipso y la soca
+¿Cual es un dato curioso de Argentina?|argentina es el octavo pais mas grande del mundo por area
+¿Cual es un dato curioso de Bolivia?|bolivia es uno de los dos paises sin salida al mar en sudamerica
+¿Cual es un dato curioso de Brasil?|brasil alberga mas del 60 por ciento de la selva amazonica
+¿Cual es un dato curioso de Chile?|chile es el pais mas largo del mundo de norte a sur
+¿Cual es un dato curioso de Colombia?|colombia es el mayor exportador mundial de esmeraldas
+¿Cual es un dato curioso de Ecuador?|ecuador es el unico pais cuyo nombre proviene de la linea ecuatorial
+¿Cual es un dato curioso de Guyana?|guyana es el unico pais sudamericano con ingles como idioma oficial
+¿Cual es un dato curioso de Paraguay?|paraguay es uno de los dos paises sudamericanos sin salida al mar
+¿Cual es un dato curioso de Peru?|peru es el pais de origen de la papa, con mas de 3000 variedades nativas
+¿Cual es un dato curioso de Surinam?|surinam es el pais mas densamente boscoso de america
+¿Cual es un dato curioso de Uruguay?|uruguay fue el primer pais en america latina en abolir la pena de muerte
+¿Cual es un dato curioso de Venezuela?|venezuela posee la catarata mas alta del mundo, el salto angel?

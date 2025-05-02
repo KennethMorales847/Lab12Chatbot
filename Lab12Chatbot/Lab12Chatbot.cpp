@@ -136,7 +136,7 @@ int main() {
         cout << "\nTu: ";
         getline(cin, preguntaUsuario);
         if (preguntaUsuario == "salir") {
-            cout << "Bot: ¡Hasta luego!" << endl;
+            cout << "Bot: Hasta luego!" << endl;
             break;
         }
 
@@ -150,7 +150,7 @@ int main() {
         }
         // Respuesta de saludo prioritaria
         if (GREETINGS.count(joined)) {
-            cout << "Bot: ¡Estoy muy bien, gracias! ¿Y tú?" << endl;
+            cout << "Bot: Estoy muy bien, gracias! ¿Y tú?" << endl;
             continue;
         }
 
